@@ -59,48 +59,48 @@ The following table benchmarks leading AI career platforms, ranked in **descendi
 
 ## 🛠️ Open-Source GitHub Projects
 
-Explore battle-tested open-source repositories, developer CLIs, and autonomous career agents. Ranked in **descending order by GitHub star count**.
+Explore battle-tested open-source repositories, developer CLIs, and autonomous career agents. Ranked in **descending order by GitHub Stars_Count**.
 
-1. **[career-ops](https://github.com/career-ops-hq/career-ops)** [![GitHub stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=social&color=white)](https://github.com/career-ops-hq/career-ops/stargazers)  
+1. **[career-ops](https://github.com/career-ops-hq/career-ops)** [![GitHub_Stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=social&color=white)](https://github.com/career-ops-hq/career-ops/stargazers)  
    🤖 *Autonomous AI job search agent and job finder*: scans live job boards, scores postings 1–5 against your CV before you apply, tailors ATS-compliant resumes and cover letters, prepares custom interview battlecards, and tracks applications locally inside AI coding CLIs (Claude Code, Codex, OpenCode).
 
-2. **[ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** [![GitHub stars](https://img.shields.io/github/stars/MadsLorentzen/ai-job-search?style=social&color=white)](https://github.com/MadsLorentzen/ai-job-search/stargazers)  
+2. **[ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** [![GitHub_Stars](https://img.shields.io/github/stars/MadsLorentzen/ai-job-search?style=social&color=white)](https://github.com/MadsLorentzen/ai-job-search/stargazers)  
    💻 *Self-hosted AI job application framework*: built on top of Claude Code to automate job posting evaluations, CV tailoring, cover letter drafting, and interview question generation while ensuring 100% data ownership on your personal machine.
 
-3. **[Reactive Resume](https://github.com/reactive-resume/reactive-resume)** [![GitHub stars](https://img.shields.io/github/stars/reactive-resume/reactive-resume?style=social&color=white)](https://github.com/reactive-resume/reactive-resume/stargazers)  
+3. **[Reactive Resume](https://github.com/reactive-resume/reactive-resume)** [![GitHub_Stars](https://img.shields.io/github/stars/reactive-resume/reactive-resume?style=social&color=white)](https://github.com/reactive-resume/reactive-resume/stargazers)  
    🔒 *Privacy-first, free-forever resume builder*: full-featured web app supporting custom branding, real-time reactive editing, multi-language translation, OpenAI-powered content assistance, and turn-key self-hosted Docker deployments without tracking.
 
-4. **[Resume-Matcher](https://github.com/srbhr/Resume-Matcher)** [![GitHub stars](https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social&color=white)](https://github.com/srbhr/Resume-Matcher/stargazers)  
+4. **[Resume-Matcher](https://github.com/srbhr/Resume-Matcher)** [![GitHub_Stars](https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social&color=white)](https://github.com/srbhr/Resume-Matcher/stargazers)  
    🎯 *AI harness for ATS resume matching*: compares your resume against target job descriptions using semantic similarity algorithms and vector embeddings. Highlights missing keywords and integrates with 100+ local and cloud LLMs.
 
-5. **[RenderCV](https://github.com/rendercv/rendercv)** [![GitHub stars](https://img.shields.io/github/stars/rendercv/rendercv?style=social&color=white)](https://github.com/rendercv/rendercv/stargazers)  
+5. **[RenderCV](https://github.com/rendercv/rendercv)** [![GitHub_Stars](https://img.shields.io/github/stars/rendercv/rendercv?style=social&color=white)](https://github.com/rendercv/rendercv/stargazers)  
    📄 *CLI resume generator and engine*: transforms structured YAML files into publication-quality, ATS-optimized PDF and LaTeX resumes. Frequently utilized by autonomous agent pipelines for deterministic document compilation.
 
-6. **[OpenResume](https://github.com/xitanggg/open-resume)** [![GitHub stars](https://img.shields.io/github/stars/xitanggg/open-resume?style=social&color=white)](https://github.com/xitanggg/open-resume/stargazers)  
+6. **[OpenResume](https://github.com/xitanggg/open-resume)** [![GitHub_Stars](https://img.shields.io/github/stars/xitanggg/open-resume?style=social&color=white)](https://github.com/xitanggg/open-resume/stargazers)  
    ⚡ *Modern, lightweight resume builder and PDF parser*: crafted with Next.js, TypeScript, and Tailwind CSS. Provides instant live preview, ATS-friendly PDF generation, and client-side processing with zero server-side data retention.
 
-7. **[JobSpy](https://github.com/cullenwatson/JobSpy)** [![GitHub stars](https://img.shields.io/github/stars/cullenwatson/JobSpy?style=social&color=white)](https://github.com/cullenwatson/JobSpy/stargazers)  
+7. **[JobSpy](https://github.com/cullenwatson/JobSpy)** [![GitHub_Stars](https://img.shields.io/github/stars/cullenwatson/JobSpy?style=social&color=white)](https://github.com/cullenwatson/JobSpy/stargazers)  
    🔍 *High-performance job scraper library*: aggregates employment listings across LinkedIn, Indeed, Glassdoor, ZipRecruiter, and Bayt into clean Pandas DataFrames; an essential component for feeding candidate data into AI career agents.
 
-8. **[ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** [![GitHub stars](https://img.shields.io/github/stars/Paramchoudhary/ResumeSkills?style=social&color=white)](https://github.com/Paramchoudhary/ResumeSkills/stargazers)  
+8. **[ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** [![GitHub_Stars](https://img.shields.io/github/stars/Paramchoudhary/ResumeSkills?style=social&color=white)](https://github.com/Paramchoudhary/ResumeSkills/stargazers)  
    🧠 *Curated AI agent skills collection*: tailor-made for AI coding CLIs (such as Claude Code) focusing on ATS resume rewriting, quantifiable achievement crafting, company research, and mock interview prep.
 
-9. **[ai_mock_interviews](https://github.com/adrianhajdin/ai_mock_interviews)** [![GitHub stars](https://img.shields.io/github/stars/adrianhajdin/ai_mock_interviews?style=social&color=white)](https://github.com/adrianhajdin/ai_mock_interviews/stargazers)  
+9. **[ai_mock_interviews](https://github.com/adrianhajdin/ai_mock_interviews)** [![GitHub_Stars](https://img.shields.io/github/stars/adrianhajdin/ai_mock_interviews?style=social&color=white)](https://github.com/adrianhajdin/ai_mock_interviews/stargazers)  
    🎙️ *Voice-driven AI mock interview platform*: interactive simulation interface powered by Next.js and Vapi AI that conducts realistic verbal interviews and generates detailed feedback reports.
 
-10. **[Lujie CareerKit](https://github.com/Chozzc/Lujie-Careerkit)** [![GitHub stars](https://img.shields.io/github/stars/Chozzc/Lujie-Careerkit?style=social&color=white)](https://github.com/Chozzc/Lujie-Careerkit/stargazers)  
+10. **[Lujie CareerKit](https://github.com/Chozzc/Lujie-Careerkit)** [![GitHub_Stars](https://img.shields.io/github/stars/Chozzc/Lujie-Careerkit?style=social&color=white)](https://github.com/Chozzc/Lujie-Careerkit/stargazers)  
     🗂️ *AI resume builder and job hunt tracker*: offers role-specific resume tailoring, comprehensive job application pipeline management, and targeted mock interview question banks.
 
-11. **[GENAI-CareerAssistant-Multiagent](https://github.com/amanv1906/GENAI-CareerAssistant-Multiagent)** [![GitHub stars](https://img.shields.io/github/stars/amanv1906/GENAI-CareerAssistant-Multiagent?style=social&color=white)](https://github.com/amanv1906/GENAI-CareerAssistant-Multiagent/stargazers)  
+11. **[GENAI-CareerAssistant-Multiagent](https://github.com/amanv1906/GENAI-CareerAssistant-Multiagent)** [![GitHub_Stars](https://img.shields.io/github/stars/amanv1906/GENAI-CareerAssistant-Multiagent?style=social&color=white)](https://github.com/amanv1906/GENAI-CareerAssistant-Multiagent/stargazers)  
     🤖 *Multi-agent generative career system*: coordinates specialized AI agents to perform company background diligence, generate personalized cover letters, and identify CV skill gaps against job specs.
 
-12. **[ResumeForge](https://github.com/magicapple123/ResumeForge)** [![GitHub stars](https://img.shields.io/github/stars/magicapple123/ResumeForge?style=social&color=white)](https://github.com/magicapple123/ResumeForge/stargazers)  
+12. **[ResumeForge](https://github.com/magicapple123/ResumeForge)** [![GitHub_Stars](https://img.shields.io/github/stars/magicapple123/ResumeForge?style=social&color=white)](https://github.com/magicapple123/ResumeForge/stargazers)  
     🛡️ *Local-first AI resume workstation*: incorporates a verified fact-ledger to prevent LLM hallucinations, delivers multi-format export, supports mock interview deep dives, and provides job tracking using FastAPI and SQLite.
 
-13. **[NextRole](https://github.com/tam159/next-role)** [![GitHub stars](https://img.shields.io/github/stars/tam159/next-role?style=social&color=white)](https://github.com/tam159/next-role/stargazers)  
+13. **[NextRole](https://github.com/tam159/next-role)** [![GitHub_Stars](https://img.shields.io/github/stars/tam159/next-role?style=social&color=white)](https://github.com/tam159/next-role/stargazers)  
     🧭 *Multi-agent career advancement copilot*: features long-term agentic memory, automates employer research, and formulates customized interview prep strategies for lateral job changes or internal promotions.
 
-14. **[JobFit AI](https://github.com/adeebhh/JobFit-AI)** [![GitHub stars](https://img.shields.io/github/stars/adeebhh/JobFit-AI?style=social&color=white)](https://github.com/adeebhh/JobFit-AI/stargazers)  
+14. **[JobFit AI](https://github.com/adeebhh/JobFit-AI)** [![GitHub_Stars](https://img.shields.io/github/stars/adeebhh/JobFit-AI?style=social&color=white)](https://github.com/adeebhh/JobFit-AI/stargazers)  
     🔒 *Privacy-focused offline resume scanner*: leverages local LLMs (via Ollama) to compare resumes against job descriptions, identifying skill deficiencies and alignment metrics completely offline.
 
 ---
@@ -159,7 +159,7 @@ Contributions are warmly encouraged! To propose a new platform or update existin
 
 1. 🍴 Fork this repository.
 2. 📝 Add or update entries in `README.md` following the established table or badge formats.
-3. 🔎 Verify that all commercial entries include verifiable pricing and free-tier limits, and all open-source tools link to their GitHub repositories and star badges.
+3. 🔎 Verify that all commercial entries include verifiable pricing and free-tier limits, and all open-source tools link to their GitHub repositories and Stars_Badges.
 4. 🚀 Submit a Pull Request with a succinct explanation of the additions.
 
 ---
